@@ -1,0 +1,4 @@
+name: WaterDamagePlugin
+version: '${project.version}'
+main: org.phantam.waterdamageplugin.WaterDamagePlugin
+api-version: '1.16'

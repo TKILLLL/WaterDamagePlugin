@@ -1,0 +1,4 @@
+name: WaterDamagePlugin
+version: '1.0-SNAPSHOT'
+main: org.phantam.waterdamageplugin.WaterDamagePlugin
+api-version: '1.16'
